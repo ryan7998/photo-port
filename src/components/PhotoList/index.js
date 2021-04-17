@@ -1,6 +1,5 @@
 import React, {useState} from 'react';
 
-
 function PhotoList({category}){
     const [photos] = useState([
         {
