@@ -1,6 +1,6 @@
 {
   "homepage": "http://ryan7998.github.io/photo-port",
-  "name": "portfolio",
+  "name": "photo-port",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
